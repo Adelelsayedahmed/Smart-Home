@@ -6,6 +6,6 @@
 -7 segments clock using multiplixed mode  
 
 #Drivers used:  
--MCAL  DIO , TIMERS , Interrupt , PWM , I2C , UART ,ADC  
+-MCAL  DIO , TIMERS , External Interrupts , PWM  , UART ,ADC  
 
--HAL : LCD, seven segments ,  buzzer, LDR, LM35, DC motor, servo motor, Keypad  
+-HAL : LCD, seven segments ,  buzzer, LDR, LM35, DC motor, servo motor, Keypad , clock
