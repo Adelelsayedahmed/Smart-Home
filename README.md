@@ -1,2 +1,12 @@
 # Smart-Home-
-in this project we used 2 atmega32 communicate with each other using UART 
+in this project we used two atmega32 micro controller communicating  with each other using UART 
+we can manage that many users can enter the house using their own usernames and passowrds
+we used LM35 Temperature sensor to control the speed of DC motor using PWM and to open doors in emergency case when there is a fire 
+we used LDR to To control the lighting degree
+
+
+Drivers used:
+MCAL  DIO , TIMERS , Interrupt , PWM , I2C , UART ,ADC
+- Smart Clock
+
+HAL : LCD, buzzer, LDR, LM35, DC motor, servo motor, Keypad, electromechanical relay.
