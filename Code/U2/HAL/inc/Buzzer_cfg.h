@@ -2,7 +2,7 @@
  * Buzzer_cfg.h
  *
  *  Created on: Sep 21, 2022
- *      Author: Dell
+ *      Author: Adel
  */
 
 #ifndef BUZZER_CFG_H_
